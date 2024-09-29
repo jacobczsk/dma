@@ -1,0 +1,384 @@
+{
+  "maps": [
+    {
+      "name": "Oblastn\u00ed \u017eeb\u0159\u00ed\u010dek - dopoledne",
+      "date": "2023-09-02T00:00:00",
+      "location": "Fr\u00fddlant",
+      "time": "15:16",
+      "class": "H14",
+      "place": "19.",
+      "loss": "+6:11",
+      "file": "maps/img/2023-09-02_T2JsYXN0bsOtIMW-ZWLFmcOtxI1layAtIGRvcG9sZWRuZQ==.jpg"
+    },
+    {
+      "name": "Oblastn\u00ed \u017eeb\u0159\u00ed\u010dek - odpoledne",
+      "date": "2023-09-02T00:00:00",
+      "location": "Fr\u00fddlant",
+      "time": "11:43",
+      "class": "H14",
+      "place": "9.",
+      "loss": "+2:02",
+      "file": "maps/img/2023-09-02_T2JsYXN0bsOtIMW-ZWLFmcOtxI1layAtIG9kcG9sZWRuZQ==.jpg"
+    },
+    {
+      "name": "M\u010cR ve sprintu",
+      "date": "2024-05-18T00:00:00",
+      "location": "Jemnice",
+      "time": "13:47",
+      "class": "H16",
+      "place": "40.",
+      "loss": "+3:15",
+      "file": "maps/img/2024-05-18_TcSMUiB2ZSBzcHJpbnR1.jpg"
+    },
+    {
+      "name": "Oblastn\u00ed \u017eeb\u0159\u00ed\u010dek",
+      "date": "2024-09-28T00:00:00",
+      "location": "Je\u0161t\u011bd-V\u00fdp\u0159e\u017e",
+      "time": "44:39",
+      "class": "H16",
+      "place": "11.",
+      "loss": "+14:59",
+      "file": "maps/img/2024-09-28_T2JsYXN0bsOtIMW-ZWLFmcOtxI1law==.jpg"
+    },
+    {
+      "name": "\u017deb\u0159\u00ed\u010dek B-\u010cechy",
+      "date": "2024-06-23T00:00:00",
+      "location": "Eduard u J\u00e1chymova",
+      "time": "27:07",
+      "class": "H16B",
+      "place": "44.",
+      "loss": "+7:05",
+      "file": "maps/img/2024-06-23_xb1lYsWZw63EjWVrIEItxIxlY2h5.jpg"
+    },
+    {
+      "name": "\u017deb\u0159\u00ed\u010dek B-\u010cechy",
+      "date": "2024-06-22T00:00:00",
+      "location": "Eduard u J\u00e1chymova",
+      "time": "73:51",
+      "class": "H16B",
+      "place": "58.",
+      "loss": "+28:01",
+      "file": "maps/img/2024-06-22_xb1lYsWZw63EjWVrIEItxIxlY2h5.jpg"
+    },
+    {
+      "name": "Ve\u0159ejn\u00fd z\u00e1vod (Akademick\u00e9 M \u010cR)",
+      "date": "2024-06-24T00:00:00",
+      "location": "Lidov\u00e9 sady",
+      "time": "20:26",
+      "class": "H",
+      "place": "55.",
+      "loss": "+6:36",
+      "file": "maps/img/2024-06-24_VmXFmWVqbsO9IHrDoXZvZCAoQWthZGVtaWNrw6kgTSDEjFIp.jpg"
+    },
+    {
+      "name": "\u017deb\u0159\u00ed\u010dek B-\u010cechy",
+      "date": "2024-06-01T00:00:00",
+      "location": "Zdechovice",
+      "time": "60:54",
+      "class": "H16B",
+      "place": "55.",
+      "loss": "+33:27",
+      "file": "maps/img/2024-06-01_xb1lYsWZw63EjWVrIEItxIxlY2h5.jpg"
+    },
+    {
+      "name": "\u017deb\u0159\u00ed\u010dek B-\u010cechy",
+      "date": "2024-06-02T00:00:00",
+      "location": "Zdechovice",
+      "time": "96:33",
+      "class": "H16B",
+      "place": "49.",
+      "loss": "+38:59",
+      "file": "maps/img/2024-06-02_xb1lYsWZw63EjWVrIEItxIxlY2h5.jpg"
+    },
+    {
+      "name": "Mistrovstv\u00ed oblasti na klasick\u00e9 trati",
+      "date": "2019-04-28T00:00:00",
+      "location": "Bramberk, st\u0159elnice",
+      "time": "50:38",
+      "class": "H10L",
+      "place": "17.",
+      "loss": "+35:29",
+      "file": "maps/img/2019-04-28_TWlzdHJvdnN0dsOtIG9ibGFzdGkgbmEga2xhc2lja8OpIHRyYXRp.jpg"
+    },
+    {
+      "name": "Oblastn\u00ed \u017eeb\u0159\u00ed\u010dek",
+      "date": "2018-10-21T00:00:00",
+      "location": "Ole\u0161nice (u V\u0161en\u011b)",
+      "time": "16:10",
+      "class": "H10L",
+      "place": "6.",
+      "loss": "+4:50",
+      "file": "maps/img/2018-10-21_T2JsYXN0bsOtIMW-ZWLFmcOtxI1law==.jpg"
+    },
+    {
+      "name": "Mistrovstv\u00ed oblasti na kr\u00e1tk\u00e9 trati",
+      "date": "2018-06-02T00:00:00",
+      "location": "Chata Slovanka",
+      "time": "42:05",
+      "class": "H10L",
+      "place": "15.",
+      "loss": "+27:24",
+      "file": "maps/img/2018-06-02_TWlzdHJvdnN0dsOtIG9ibGFzdGkgbmEga3LDoXRrw6kgdHJhdGk=.jpg"
+    },
+    {
+      "name": "Interkompas 50 - E1",
+      "date": "2024-08-30T00:00:00",
+      "location": "Sedlo u \u010c\u00edm\u011b\u0159e",
+      "time": "45:38",
+      "class": "H16B",
+      "place": "18.",
+      "loss": "+15:30",
+      "file": "maps/img/2024-08-30_SW50ZXJrb21wYXMgNTAgLSBFMQ==.jpg"
+    },
+    {
+      "name": "Interkompas 50 - E2",
+      "date": "2024-08-31T00:00:00",
+      "location": "Sedlo u \u010c\u00edm\u011b\u0159e",
+      "time": "65:42",
+      "class": "H16B",
+      "place": "20.",
+      "loss": "+23:37",
+      "file": "maps/img/2024-08-31_SW50ZXJrb21wYXMgNTAgLSBFMg==.jpg"
+    },
+    {
+      "name": "Interkompas 50 - E3",
+      "date": "2024-09-01T00:00:00",
+      "location": "Sedlo u \u010c\u00edm\u011b\u0159e",
+      "time": "49:44",
+      "class": "H16B",
+      "place": "23.",
+      "loss": "+17:53",
+      "file": "maps/img/2024-09-01_SW50ZXJrb21wYXMgNTAgLSBFMw==.jpg"
+    },
+    {
+      "name": "Mistrovstv\u00ed oblasti \u0161tafet",
+      "date": "2024-05-25T00:00:00",
+      "location": "Bed\u0159ichovka",
+      "time": "38:38",
+      "class": "MIX",
+      "place": "6.",
+      "loss": "+9:31",
+      "file": "maps/img/2024-05-25_TWlzdHJvdnN0dsOtIG9ibGFzdGkgxaF0YWZldA==.jpg"
+    },
+    {
+      "name": "Oblastn\u00ed \u017eeb\u0159\u00ed\u010dek (SAXBO)",
+      "date": "2024-05-25T00:00:00",
+      "location": "Bed\u0159ichovka",
+      "time": "31:19",
+      "class": "H16",
+      "place": "15.",
+      "loss": "+7:57",
+      "file": "maps/img/2024-05-25_T2JsYXN0bsOtIMW-ZWLFmcOtxI1layAoU0FYQk8p.jpg"
+    },
+    {
+      "name": "Ve\u0159ejn\u00fd z\u00e1vod - dopoledne",
+      "date": "2024-03-17T00:00:00",
+      "location": "Mnichovo Hradi\u0161t\u011b",
+      "time": "17:15",
+      "class": "T2",
+      "place": "3.",
+      "loss": "+1:26",
+      "file": "maps/img/2024-03-17_VmXFmWVqbsO9IHrDoXZvZCAtIGRvcG9sZWRuZQ==.jpg"
+    },
+    {
+      "name": "\u017deb\u0159\u00ed\u010dek B-\u010cechy",
+      "date": "2024-04-27T00:00:00",
+      "location": "Tu\u017e\u00edn",
+      "time": "94:32",
+      "class": "H16B",
+      "place": "73.",
+      "loss": "+43:51",
+      "file": "maps/img/2024-04-27_xb1lYsWZw63EjWVrIEItxIxlY2h5.jpg"
+    },
+    {
+      "name": "\u017deb\u0159\u00ed\u010dek B-\u010cechy - sprint",
+      "date": "2024-06-01T00:00:00",
+      "location": "Chvaletice",
+      "time": "12:55",
+      "class": "H16B",
+      "place": "48.",
+      "loss": "+2:50",
+      "file": "maps/img/2024-06-01_xb1lYsWZw63EjWVrIEItxIxlY2h5IC0gc3ByaW50.jpg"
+    },
+    {
+      "name": "Ve\u0159ejn\u00fd z\u00e1vod - odpoledne",
+      "date": "2024-03-17T00:00:00",
+      "location": "Mnichovo Hradi\u0161t\u011b",
+      "time": "15:31",
+      "class": "T2",
+      "place": "6.",
+      "loss": "+1:57",
+      "file": "maps/img/2024-03-17_VmXFmWVqbsO9IHrDoXZvZCAtIG9kcG9sZWRuZQ==.jpg"
+    },
+    {
+      "name": "\u017deb\u0159\u00ed\u010dek B-\u010cechy",
+      "date": "2024-09-07T00:00:00",
+      "location": "Chy\u0148ava",
+      "time": "45:44",
+      "class": "H16B",
+      "place": "49.",
+      "loss": "+14:58",
+      "file": "maps/img/2024-09-07_xb1lYsWZw63EjWVrIEItxIxlY2h5.jpg"
+    },
+    {
+      "name": "Oblastn\u00ed \u017eeb\u0159\u00ed\u010dek - dopoledne",
+      "date": "2023-10-08T00:00:00",
+      "location": "Hr\u00e1dek nad Nisou",
+      "time": "13:43",
+      "class": "H14",
+      "place": "7.",
+      "loss": "+2:38",
+      "file": "maps/img/2023-10-08_T2JsYXN0bsOtIMW-ZWLFmcOtxI1layAtIGRvcG9sZWRuZQ==.jpg"
+    },
+    {
+      "name": "Oblastn\u00ed \u017eeb\u0159\u00ed\u010dek",
+      "date": "2020-10-04T00:00:00",
+      "location": "V\u0161e\u0148",
+      "time": "51:58",
+      "class": "H12",
+      "place": "27.",
+      "loss": "+36:48",
+      "file": "maps/img/2020-10-04_T2JsYXN0bsOtIMW-ZWLFmcOtxI1law==.jpg"
+    },
+    {
+      "name": "Oblastn\u00ed \u017eeb\u0159\u00ed\u010dek",
+      "date": "2023-10-22T00:00:00",
+      "location": "Hrani\u010dn\u00e1",
+      "time": "55:40",
+      "class": "H14",
+      "place": "10.",
+      "loss": "+35:31",
+      "file": "maps/img/2023-10-22_T2JsYXN0bsOtIMW-ZWLFmcOtxI1law==.jpg"
+    },
+    {
+      "name": "5DAYS ARDF - E1 - Sprint",
+      "date": "2023-07-05T00:00:00",
+      "location": "Dob\u0159\u00ed\u0161",
+      "time": "21:37",
+      "class": "M14",
+      "place": "3.",
+      "loss": "+7:04",
+      "file": "maps/img/2023-07-05_NURBWVMgQVJERiAtIEUxIC0gU3ByaW50.jpg"
+    },
+    {
+      "name": "5DAYS ARDF - E2 - Klasika 2m",
+      "date": "2023-07-06T00:00:00",
+      "location": "\u0158evnice",
+      "time": "80:56",
+      "class": "M14",
+      "place": "3.",
+      "loss": "+32:04",
+      "file": "maps/img/2023-07-06_NURBWVMgQVJERiAtIEUyIC0gS2xhc2lrYSAybQ==.jpg"
+    },
+    {
+      "name": "5DAYS ARDF - E3 - \u0160tafety",
+      "date": "2023-07-07T00:00:00",
+      "location": "Dob\u0159\u00ed\u0161",
+      "time": "37:46",
+      "class": "M20/2",
+      "place": "10.",
+      "loss": "+17:08",
+      "file": "maps/img/2023-07-07_NURBWVMgQVJERiAtIEUzIC0gxaB0YWZldHk=.jpg"
+    },
+    {
+      "name": "Oblastn\u00ed \u017eeb\u0159\u00ed\u010dek - odpoledne - Mat\u011bj",
+      "date": "2023-10-08T00:00:00",
+      "location": "Krist\u00fdna",
+      "time": "19:57",
+      "class": "HDR",
+      "place": "17.",
+      "loss": "+10:45",
+      "file": "maps/img/2023-10-08_T2JsYXN0bsOtIMW-ZWLFmcOtxI1layAtIG9kcG9sZWRuZSAtIE1hdMSbag==.jpg"
+    },
+    {
+      "name": "Oblastn\u00ed \u017eeb\u0159\u00ed\u010dek - odpoledne - Mat\u011bj",
+      "date": "2023-10-08T00:00:00",
+      "location": "Krist\u00fdna",
+      "time": "19:57",
+      "class": "HDR",
+      "place": "17.",
+      "loss": "+10:45",
+      "file": "maps/img/2023-10-08_T2JsYXN0bsOtIMW-ZWLFmcOtxI1layAtIG9kcG9sZWRuZSAtIE1hdMSbag==.jpg"
+    },
+    {
+      "name": "Oblastn\u00ed \u017eeb\u0159\u00ed\u010dek - dopoledne - Mat\u011bj",
+      "date": "2023-09-02T00:00:00",
+      "location": "Fr\u00fddlant",
+      "time": "16:15",
+      "class": "HDR",
+      "place": "9.",
+      "loss": "+5:32",
+      "file": "maps/img/2023-09-02_T2JsYXN0bsOtIMW-ZWLFmcOtxI1layAtIGRvcG9sZWRuZSAtIE1hdMSbag==.jpg"
+    },
+    {
+      "name": "Oblastn\u00ed \u017eeb\u0159\u00ed\u010dek - odpoledne - Mat\u011bj",
+      "date": "2023-09-02T00:00:00",
+      "location": "Fr\u00fddlant",
+      "time": "11:09",
+      "class": "HDR",
+      "place": "4.",
+      "loss": "+2:29",
+      "file": "maps/img/2023-09-02_T2JsYXN0bsOtIMW-ZWLFmcOtxI1layAtIG9kcG9sZWRuZSAtIE1hdMSbag==.jpg"
+    },
+    {
+      "name": "Interkompas 50 - E1 - Mat\u011bj",
+      "date": "2024-08-30T00:00:00",
+      "location": "Sedlo u \u010c\u00edm\u011b\u0159e",
+      "time": "39:57",
+      "class": "HDR",
+      "place": "19.",
+      "loss": "+17:48",
+      "file": "maps/img/2024-08-30_SW50ZXJrb21wYXMgNTAgLSBFMSAtIE1hdMSbag==.jpg"
+    },
+    {
+      "name": "Interkompas 50 - E2 - Mat\u011bj",
+      "date": "2024-08-31T00:00:00",
+      "location": "Sedlo u \u010c\u00edm\u011b\u0159e",
+      "time": "39:00",
+      "class": "HDR",
+      "place": "20.",
+      "loss": "+14:49",
+      "file": "maps/img/2024-08-31_SW50ZXJrb21wYXMgNTAgLSBFMiAtIE1hdMSbag==.jpg"
+    },
+    {
+      "name": "Ve\u0159ejn\u00fd z\u00e1vod - dopoledne - Mat\u011bj",
+      "date": "2024-03-17T00:00:00",
+      "location": "Mnichovo Hradi\u0161t\u011b",
+      "time": "35:26",
+      "class": "T1",
+      "place": "17.",
+      "loss": "+20:51",
+      "file": "maps/img/2024-03-17_VmXFmWVqbsO9IHrDoXZvZCAtIGRvcG9sZWRuZSAtIE1hdMSbag==.jpg"
+    },
+    {
+      "name": "Ve\u0159ejn\u00fd z\u00e1vod - odpoledne - Mat\u011bj",
+      "date": "2024-03-17T00:00:00",
+      "location": "Mnichovo Hradi\u0161t\u011b",
+      "time": "21:44",
+      "class": "T1",
+      "place": "16.",
+      "loss": "+10:33",
+      "file": "maps/img/2024-03-17_VmXFmWVqbsO9IHrDoXZvZCAtIG9kcG9sZWRuZSAtIE1hdMSbag==.jpg"
+    },
+    {
+      "name": "\u017deb\u0159\u00ed\u010dek B-\u010cechy",
+      "date": "2024-09-08T00:00:00",
+      "location": "Chy\u0148ava",
+      "time": "74:41",
+      "class": "H16B",
+      "place": "51.",
+      "loss": "+23:42",
+      "file": "maps/img/2024-09-08_xb1lYsWZw63EjWVrIEItxIxlY2h5.jpg"
+    },
+    {
+      "name": "Oblastn\u00ed \u017eeb\u0159\u00ed\u010dek",
+      "date": "2024-09-29T00:00:00",
+      "location": "\u010cesk\u00e1 L\u00edpa - Sv\u00e1rov",
+      "time": "30:45",
+      "class": "H16",
+      "place": "7.",
+      "loss": "+8:00",
+      "file": "maps/img/2024-09-29_T2JsYXN0bsOtIMW-ZWLFmcOtxI1law==.jpg"
+    }
+  ]
+}

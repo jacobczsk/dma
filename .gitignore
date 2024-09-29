@@ -1,0 +1,8 @@
+.venv
+.vscode
+web/css
+web/js
+node_modules
+publish.js
+package.json
+package-lock.json
