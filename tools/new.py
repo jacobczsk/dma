@@ -12,6 +12,8 @@ if __name__ == "__main__":
         while True:
             try:
                 oris_id = input("ORIS ID (leave blank for manual): ")
+                if oris_id == "q":
+                    break
                 if oris_id != "":
                     eventData = requests.get(
                         f"https://oris.orientacnisporty.cz/API/?format=json&method=getEvent&id={oris_id}"
@@ -69,7 +71,7 @@ if __name__ == "__main__":
                     race_time = input("Time: ")
                     race_loss = input("Loss: ")
                     race_place = input("Place: ")
-                
+
                 source = input(
                     "Source (nothing for flatbed, A for ADF) and start scan (nothing for append, R for rewrite)"
                 )
@@ -85,7 +87,6 @@ if __name__ == "__main__":
                         "--resolution=200dpi",
                         "-x 210.0",
                         "-y 297.0",
-                        "--compression=JPEG",
                         "--format=jpeg",
                         "--mode=Color",
                         f"--output-file=web/{filename}",
@@ -104,6 +105,7 @@ if __name__ == "__main__":
                             "place": race_place,
                             "loss": race_loss,
                             "file": filename,
+                            "oris": int(oris_id) if oris_id != "" else 0,
                         }
                     )
                     f.seek(0)
