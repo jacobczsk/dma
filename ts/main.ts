@@ -32,6 +32,12 @@ async function renderRace(idx: number) {
   document.getElementById("map-place")!.innerText = race.place;
   document.getElementById("map-time")!.innerText = race.time;
   document.getElementById("map-loss")!.innerText = race.loss;
+  if (race.oris !== undefined) {
+    document.getElementById("map-oris")!.setAttribute("href", `https://oris.orientacnisporty.cz/Zavod?id=${race.oris}`);
+    document.getElementById("map-oris")!.innerText = race.oris;
+  } else {
+    document.getElementById("map-oris")!.innerText = "N/A";
+  }
   document.getElementById("eventsview")?.setAttribute("class", "hide");
   document.getElementById("eventview")?.setAttribute("class", "");
 }

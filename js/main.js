@@ -28,8 +28,8 @@ function renderRaces() {
     });
 }
 function renderRace(idx) {
-    var _a, _b;
     return __awaiter(this, void 0, void 0, function* () {
+        var _a, _b;
         yield loadRaces();
         const race = races[idx];
         document.getElementById("map-img").setAttribute("src", race.file);
@@ -41,6 +41,13 @@ function renderRace(idx) {
         document.getElementById("map-place").innerText = race.place;
         document.getElementById("map-time").innerText = race.time;
         document.getElementById("map-loss").innerText = race.loss;
+        if (race.oris !== undefined) {
+            document.getElementById("map-oris").setAttribute("href", `https://oris.orientacnisporty.cz/Zavod?id=${race.oris}`);
+            document.getElementById("map-oris").innerText = race.oris;
+        }
+        else {
+            document.getElementById("map-oris").innerText = "N/A";
+        }
         (_a = document.getElementById("eventsview")) === null || _a === void 0 ? void 0 : _a.setAttribute("class", "hide");
         (_b = document.getElementById("eventview")) === null || _b === void 0 ? void 0 : _b.setAttribute("class", "");
     });
